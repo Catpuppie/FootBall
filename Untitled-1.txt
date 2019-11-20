@@ -1,7 +1,0 @@
-<h1>TRE FOTBOLLSLAG<h1>
-
-<h1>Östersund<h1>
-
-<h1>Malmö<h1>
-
-<h1>Hammarby<h1>
