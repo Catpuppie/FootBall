@@ -9,5 +9,29 @@
 
     <img onmouseover="this.src='7GIS3UNL.jpg'" src="logo.png" onmouseout="this.src='logo.png'" />
 
+    <p id="demo" onclick="myFunction()">Malmö FF</p>
+
+    <script>
+        function myFunction() {
+            document.getElementById("demo").style.color = "red";
+        }
+    </script>
+
+    <p>
+        <script type="text/javascript">
+
+            function showImage() {
+                document.getElementById('7GIS3UNL.jpg').style.visibility = "visible";
+            }
+
+        </script>
+    </p>
+    <p>
+        <body>
+            <input type="button" value="Visa Arena" onclick="showImage();" />
+            <img id="7GIS3UNL.jpg" src="7GIS3UNL.jpg" style="visibility:hidden" />
+
+        </body>
+    </p>
 
     <h2>Hammarby<h2>
