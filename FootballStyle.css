@@ -5,22 +5,29 @@ body
    font-family: arial;
    font-size: 14px;
    color: lightblue;
-   width: 700px;
+   width: 500px;
    text-align: center;
-   margin-left: 400px;
+   margin-left: 500px;
 }
 
 h1
 {
    font-family: arial;
-   font-size: 18px;
-   color: white;
-}
+   font-size: 22px;
+   color: lightblue;}
 
 h2
 {
     font-family: arial;
-    font-size: 14px;
+    font-size: 18px;
+    color: white
+}
+
+h3
+{
+    font-family: arial;
+    font-size: 18px;
+    color: white
 }
 
 img
